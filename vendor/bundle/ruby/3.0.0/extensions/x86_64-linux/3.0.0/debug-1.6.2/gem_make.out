@@ -1,0 +1,16 @@
+current directory: /home/isaka/rails-react-api/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220825-44966-hlqq7x.rb extconf.rb
+creating Makefile
+
+current directory: /home/isaka/rails-react-api/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/isaka/rails-react-api/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/isaka/rails-react-api/vendor/bundle/ruby/3.0.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20220825-44966-a7ija/debug
