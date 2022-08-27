@@ -5,3 +5,12 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+Message.create!(
+[
+{texts: "Acha uzembe"},
+{texts: "jumapili njema"},
+{texts: "karibu nyumbani"},
+{texts: "Usipike leo"},
+{texts: "Soma sana"}
+]
+); 

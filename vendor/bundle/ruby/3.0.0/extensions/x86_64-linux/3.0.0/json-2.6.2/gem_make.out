@@ -1,0 +1,13 @@
+current directory: /home/isaka/rails-react-api/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+/home/isaka/.rbenv/versions/3.0.3/bin/ruby -I /home/isaka/.rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220825-60064-zqj82y.rb extconf.rb
+creating Makefile
+
+current directory: /home/isaka/rails-react-api/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\= clean
+
+current directory: /home/isaka/rails-react-api/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\=
+make: Nothing to be done for 'all'.
+
+current directory: /home/isaka/rails-react-api/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\= install
